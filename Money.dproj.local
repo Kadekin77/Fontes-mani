@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.765,D:\99Coders\Curso99Money2\Fontes\Classes\cCategoria.pas=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,D:\99Coders\Curso99Money2\Fontes\Classes\cLancamento.pas=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,D:\99Coders\Curso99Money2\Fontes\Unit1.fmx=D:\99Coders\Curso99Money2\Fontes\UnitLancamentos.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,D:\99Coders\Curso99Money2\Fontes\Unit1.fmx=D:\99Coders\Curso99Money2\Fontes\UnitCategorias.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,D:\99Coders\Curso99Money2\Fontes\Unit1.fmx=D:\99Coders\Curso99Money2\Fontes\UnitCategoriasCad.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,D:\99Coders\Curso99Money2\Fontes\Unit1.dfm=D:\99Coders\Curso99Money2\Fontes\UnitDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,D:\99Coders\Curso99Money2\Fontes\UnitLancamentosCad.pas=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\99Coders\Curso99Money2\Aula 05\Fontes\UnitLogin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\99Coders\Curso99Money2\Aula 05\Fontes\UnitLogin.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,D:\99Coders\Curso99Money2\Fontes\Unit1.pas=D:\99Coders\Curso99Money2\Fontes\UnitLancamentos.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,D:\99Coders\Curso99Money2\Fontes\Unit1.pas=D:\99Coders\Curso99Money2\Fontes\UnitCategorias.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,D:\99Coders\Curso99Money2\Fontes\Classes\cUsuario.pas=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,=D:\99Coders\Curso99Money2\Fontes\Units\uFormat.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,D:\99Coders\Curso99Money2\Fontes\Unit1.pas=D:\99Coders\Curso99Money2\Fontes\UnitPrincipal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,D:\99Coders\Curso99Money2\Fontes\UnitLancamentosCad.fmx=D:\99Coders\Curso99Money2\Fontes\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,=D:\99Coders\Curso99Money2\Fontes\Units\u99Permissions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\99Coders\Curso99Money2\Aula 05\Fontes\Money.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,D:\99Coders\Curso99Money2\Fontes\Unit1.fmx=D:\99Coders\Curso99Money2\Fontes\UnitPrincipal.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,D:\99Coders\Curso99Money2\Fontes\Unit1.pas=D:\99Coders\Curso99Money2\Fontes\UnitCategoriasCad.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,D:\99Coders\Curso99Money2\Fontes\Unit1.pas=D:\99Coders\Curso99Money2\Fontes\UnitDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=D:\99Coders\Curso99Money2\Fontes\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="R52MB03JNLZ" iOSSimulator="iPhone5" Android64="R52MB03JNLZ"/>
+		<PMACANDREA iOSSimulator="iPhone5"/>
+		<PMacBook iOSSimulator="iPhone5"/>
+		<PMacVirtual iOSSimulator="iPhone5"/>
+		<PMacMini iOSSimulator="iPhone"/>
+	</ActiveMobileDevice>
+</BorlandProject>
